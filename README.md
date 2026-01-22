@@ -1,4 +1,3 @@
----
 
 # Jarflix 🍿
 
@@ -9,7 +8,7 @@ At its core, it reads movies from a local folder (for example, an external hard 
 
 This project started as “let me stream movies from my hard drive” and slowly turned into a deep dive into how real video streaming on the web actually works.
 
----
+
 
 ## What Jarflix does
 
